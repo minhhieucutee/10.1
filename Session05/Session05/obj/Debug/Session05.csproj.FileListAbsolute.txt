@@ -1,0 +1,7 @@
+C:\Users\hieu1\source\repos\Session05\Session05\bin\Debug\Session05.exe.config
+C:\Users\hieu1\source\repos\Session05\Session05\bin\Debug\Session05.exe
+C:\Users\hieu1\source\repos\Session05\Session05\bin\Debug\Session05.pdb
+C:\Users\hieu1\source\repos\Session05\Session05\obj\Debug\Session05.csproj.AssemblyReference.cache
+C:\Users\hieu1\source\repos\Session05\Session05\obj\Debug\Session05.csproj.CoreCompileInputs.cache
+C:\Users\hieu1\source\repos\Session05\Session05\obj\Debug\Session05.exe
+C:\Users\hieu1\source\repos\Session05\Session05\obj\Debug\Session05.pdb

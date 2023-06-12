@@ -1,0 +1,7 @@
+C:\Users\hieu1\source\repos\Session05\ExHandling2\bin\Debug\ExHandling2.exe.config
+C:\Users\hieu1\source\repos\Session05\ExHandling2\bin\Debug\ExHandling2.exe
+C:\Users\hieu1\source\repos\Session05\ExHandling2\bin\Debug\ExHandling2.pdb
+C:\Users\hieu1\source\repos\Session05\ExHandling2\obj\Debug\ExHandling2.csproj.AssemblyReference.cache
+C:\Users\hieu1\source\repos\Session05\ExHandling2\obj\Debug\ExHandling2.csproj.CoreCompileInputs.cache
+C:\Users\hieu1\source\repos\Session05\ExHandling2\obj\Debug\ExHandling2.exe
+C:\Users\hieu1\source\repos\Session05\ExHandling2\obj\Debug\ExHandling2.pdb

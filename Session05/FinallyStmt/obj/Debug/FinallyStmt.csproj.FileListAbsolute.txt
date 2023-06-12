@@ -1,0 +1,6 @@
+C:\Users\hieu1\source\repos\Session05\FinallyStmt\bin\Debug\FinallyStmt.exe.config
+C:\Users\hieu1\source\repos\Session05\FinallyStmt\bin\Debug\FinallyStmt.exe
+C:\Users\hieu1\source\repos\Session05\FinallyStmt\bin\Debug\FinallyStmt.pdb
+C:\Users\hieu1\source\repos\Session05\FinallyStmt\obj\Debug\FinallyStmt.csproj.CoreCompileInputs.cache
+C:\Users\hieu1\source\repos\Session05\FinallyStmt\obj\Debug\FinallyStmt.exe
+C:\Users\hieu1\source\repos\Session05\FinallyStmt\obj\Debug\FinallyStmt.pdb
